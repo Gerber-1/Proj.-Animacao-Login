@@ -18,6 +18,11 @@ Este é um formulário de login simples e responsivo construído usando HTML e C
 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
+## Implantação em produção
+- Back end: Não possui
+- Front end web: Netlify
+- Banco de dados: Não possui
+
 # Projeto
 
 ## Características
